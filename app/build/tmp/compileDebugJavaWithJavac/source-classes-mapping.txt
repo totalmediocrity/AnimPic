@@ -1,0 +1,4 @@
+com/example/imageanimations/MainActivity.java
+ com.example.imageanimations.MainActivity
+com/example/imageanimations/BuildConfig.java
+ com.example.imageanimations.BuildConfig
